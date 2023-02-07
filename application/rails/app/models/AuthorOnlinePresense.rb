@@ -1,0 +1,2 @@
+class AuthorOnlinePresense < ActiveRecord
+end
